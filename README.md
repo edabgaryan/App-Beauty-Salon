@@ -2,4 +2,4 @@
 
 [Сылка на Проект/Link to the Project](https://narinebeauty.ru/)
 
-Made for React
+Made on React
