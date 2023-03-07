@@ -1,6 +1,6 @@
 # App-Beauty-Salon
 
-[Сылка на Проект/Link to the Project](narinebeauty.ru)
+[Сылка на Проект/Link to the Project](https://narinebeauty.ru/)
 
 
 
